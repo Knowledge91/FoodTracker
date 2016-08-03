@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D489B9941D52059A00B24981 /* Images in Resources */ = {isa = PBXBuildFile; fileRef = D489B9931D52059A00B24981 /* Images */; };
 		D4F9F3D31D50B98E002E0904 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F9F3D21D50B98E002E0904 /* AppDelegate.swift */; };
 		D4F9F3D51D50B98E002E0904 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F9F3D41D50B98E002E0904 /* ViewController.swift */; };
 		D4F9F3D81D50B98E002E0904 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4F9F3D61D50B98E002E0904 /* Main.storyboard */; };
@@ -27,7 +26,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		D489B9931D52059A00B24981 /* Images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Images; sourceTree = "<group>"; };
 		D4F9F3CF1D50B98E002E0904 /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4F9F3D21D50B98E002E0904 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4F9F3D41D50B98E002E0904 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -64,7 +62,6 @@
 				D4F9F3D11D50B98E002E0904 /* FoodTracker */,
 				D4F9F3E61D50B98E002E0904 /* FoodTrackerTests */,
 				D4F9F3D01D50B98E002E0904 /* Products */,
-				D489B9931D52059A00B24981 /* Images */,
 			);
 			sourceTree = "<group>";
 		};
@@ -182,7 +179,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D489B9941D52059A00B24981 /* Images in Resources */,
 				D4F9F3DD1D50B98E002E0904 /* LaunchScreen.storyboard in Resources */,
 				D4F9F3DA1D50B98E002E0904 /* Assets.xcassets in Resources */,
 				D4F9F3D81D50B98E002E0904 /* Main.storyboard in Resources */,

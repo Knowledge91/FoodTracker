@@ -15,9 +15,10 @@ class Meal {
     var photo: UIImage?
     var rating: Int
     
-    // Initialize store properties.
+    // MARK: Initialization
     
     init?(name: String, photo: UIImage?, rating: Int) {
+        // Initialize stored properties.
         self.name = name
         self.photo = photo
         self.rating = rating
@@ -27,4 +28,5 @@ class Meal {
             return nil
         }
     }
+    
 }
